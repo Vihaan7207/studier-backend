@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "name": "schema files",
+            "path": "schema/"
+        },
+        {
+            "name": "main",
+            "path": "./"
+        },
+        {
+            "name": "db files",
+            "path": "db/"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "node_modules": true,
+            "js": true,
+            "schema": true,
+            "supabase": true,
+            "db": true
+        }
+    }
+}
